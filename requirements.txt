@@ -1,0 +1,10 @@
+PySide6>=6.6
+PyMuPDF>=1.24
+python-docx>=1.1
+openpyxl>=3.1
+python-pptx>=1.0
+Pillow>=10.0
+Markdown>=3.5
+pdf2docx>=0.5.8
+pywin32>=306
+xlrd>=2.0
